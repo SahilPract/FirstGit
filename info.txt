@@ -1,1 +1,4 @@
 Hello, this is my git and github seesion of prectice.
+
+Add and Commit: add new or changed files in yourworking directory 
+to the git staging area.
